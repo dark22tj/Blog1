@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Abel;
+    src: url('../fonts/Abel/Abel-Regular.ttf');
+}
+@font-face {
+    font-family: Ibarra_Real_Nova;
+    src: url('../fonts/Ibarra_Real_Nova/IbarraRealNova-VariableFont_wght.ttf');
+}
+@font-face {
+    font-family: Kanit;
+    src: url('../fonts/Kanit/Kanit-Black.ttf');
+}
+@font-face {
+    font-family: Mochiy_Pop_One;
+    src: url('../fonts/Mochiy_Pop_One/MochiyPopOne-Regular.ttf');
+}
+@font-face {
+    font-family: Roboto_Mono;
+    src: url('../fonts/Roboto_Mono/RobotoMono-VariableFont_wght.ttf');
+}
